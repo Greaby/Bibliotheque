@@ -1,6 +1,6 @@
 module.exports = {
-    base_url: "https://github.com/Greaby/telescope/",
-    language: "en",
+    base_url: "https://github.com/Greaby/veille/",
+    language: "fr",
 
     seed: "telescope",
 
@@ -11,9 +11,9 @@ module.exports = {
     },
 
     labels: {
-        project_title: "Telescope",
-        see_also: "See also",
-        search: "Search",
+        project_title: "Veille",
+        see_also: "Voir aussi",
+        search: "Recherche",
     },
 
     ressource: {
@@ -31,7 +31,7 @@ module.exports = {
             display_on_graph: true,
             display_on_page: true,
         },
-        chapter: {
+        author: {
             label: "Chapter",
             color: "#4CB3D2",
             display_on_graph: true,
