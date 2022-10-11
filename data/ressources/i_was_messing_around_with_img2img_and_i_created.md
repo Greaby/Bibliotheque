@@ -2,7 +2,7 @@
 authors: [numbian]
 type: "Vidéo"
 category: "Tech"
-tag: ["Stable diffusion", "img2img", "AI art", "Witcher", "Ghibli"]
+tag: ["Stable diffusion", "image to image", "AI art", "Witcher", "Ghibli"]
 citations: ["ressource:tweet-1564626773001719813"]
 ---
 
@@ -10,4 +10,4 @@ citations: ["ressource:tweet-1564626773001719813"]
 
 I was messing around with img2img and I created this monstrosity
 
-![reddit](https://old.reddit.com/r/StableDiffusion/comments/xwgcov/i_was_messing_around_with_img2img_and_i_created/)
+![reddit](https://reddit.com/r/StableDiffusion/comments/xwgcov/i_was_messing_around_with_img2img_and_i_created/)
