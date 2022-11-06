@@ -2,7 +2,7 @@
 authors: []
 type: "Tool"
 category: "Musique"
-tag: [Musique, Chant, Karaoke, AI]
+tag: [Chant, Karaoke, AI]
 ---
 
 # x-minus.pro
