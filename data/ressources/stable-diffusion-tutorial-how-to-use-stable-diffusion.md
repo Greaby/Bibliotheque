@@ -2,7 +2,7 @@
 authors: [Angus Russell]
 type: [Article]
 category: [Tech]
-tag: ["Stable diffusion", "text to image", "AI art", "Dall-e", NightCafe]
+tag: ["Stable diffusion", "text to image", AI, "AI art", "Dall-e", NightCafe]
 ---
 
 # How to use Stable Diffusion to generate images from a text prompt

@@ -7,6 +7,7 @@ tag:
         "Stable diffusion",
         "image to image",
         "text to image",
+        AI,
         "AI art",
         "Dall-e",
         NightCafe,

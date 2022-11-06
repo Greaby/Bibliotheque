@@ -2,7 +2,7 @@
 authors: [numbian]
 type: "Vidéo"
 category: "Tech"
-tag: ["Stable diffusion", "image to image", "AI art", "Witcher", "Ghibli"]
+tag: ["Stable diffusion", "image to image", AI, "AI art", "Witcher", "Ghibli"]
 citations: ["ressource:tweet-1564626773001719813"]
 ---
 
